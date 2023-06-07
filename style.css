@@ -20,7 +20,7 @@ h2 {
 
 .coracao {
     margin: 30px auto;
-    -webkit-animation: pulsa 1s linear 5s infinite;
+    -webkit-animation: pulsa 1s linear 1s infinite;
   }
 
   @keyframes pulsa {
